@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Results-driven Full Stack Developer with 1.4+ years of professional experience in designing, developing, and maintaining scalable enterprise applications. Currently working at Cognizant as a Full Stack Developer s<br>Hands-on expertise in C#, ASP.NET Core, .NET Framework, Angular, JavaScript, SQL Server, REST APIs, HTML5, CSS3, Node.js, Git, and Agile development methodologies.<br>Strong experience in backend development, responsive front-end UI design, database optimization, API integrations, debugging, and production support. Passionate about building high-quality digital solutions that solve real business problems.
 
 
